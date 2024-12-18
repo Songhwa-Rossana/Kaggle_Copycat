@@ -1,2 +1,2 @@
 # Kaggle_Copycat
-use LLMs to solve the competition
+use LLMs to solve competitions
